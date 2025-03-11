@@ -1,2 +1,1 @@
-# IMPEL
-Inductive Message Passing Neural Network with Encoding From Large Language Models
+# News 0311: Our paper has been accepted for publication in Transportation Research Part E in the future issue. The source code and datasets will be released after a quick preparation process.  Stay tuned!
