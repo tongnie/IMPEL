@@ -1,0 +1,149 @@
+2025-07-14 14:10:19,693 - src.base.trainer - INFO - the number of parameters: 218648
+2025-07-14 14:10:19,696 - src.base.trainer - INFO - start training !!!!!
+2025-07-14 14:10:22,973 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:22,973 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:23,150 - src.base.trainer - INFO - Epoch [0/250] (159) train_mae: 9.1008, val_mae: 6.6471, lr: 0.001000, 3.3s
+2025-07-14 14:10:23,153 - src.base.trainer - INFO - Val loss decrease from inf to 6.6471, saving to True
+2025-07-14 14:10:24,232 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:24,232 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:24,382 - src.base.trainer - INFO - Epoch [1/250] (318) train_mae: 6.7336, val_mae: 6.5141, lr: 0.001000, 1.1s
+2025-07-14 14:10:24,385 - src.base.trainer - INFO - Val loss decrease from 6.6471 to 6.5141, saving to True
+2025-07-14 14:10:25,144 - src.base.trainer - INFO - Epoch [2/250] (400) train_mae: 5.8720, val_mae: 5.2865 
+2025-07-14 14:10:25,146 - src.base.trainer - INFO - Val loss decrease from 6.5141 to 5.2865, saving to True
+2025-07-14 14:10:25,655 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:25,655 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:25,831 - src.base.trainer - INFO - Epoch [2/250] (477) train_mae: 5.6573, val_mae: 5.9014, lr: 0.001000, 1.3s
+2025-07-14 14:10:26,892 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:26,892 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:27,049 - src.base.trainer - INFO - Epoch [3/250] (636) train_mae: 5.3936, val_mae: 4.9063, lr: 0.001000, 1.1s
+2025-07-14 14:10:27,051 - src.base.trainer - INFO - Val loss decrease from 5.2865 to 4.9063, saving to True
+2025-07-14 14:10:28,165 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:28,166 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:28,320 - src.base.trainer - INFO - Epoch [4/250] (795) train_mae: 4.9126, val_mae: 4.7586, lr: 0.001000, 1.1s
+2025-07-14 14:10:28,323 - src.base.trainer - INFO - Val loss decrease from 4.9063 to 4.7586, saving to True
+2025-07-14 14:10:28,528 - src.base.trainer - INFO - Epoch [5/250] (800) train_mae: 4.2039, val_mae: 4.4722 
+2025-07-14 14:10:28,532 - src.base.trainer - INFO - Val loss decrease from 4.7586 to 4.4722, saving to True
+2025-07-14 14:10:29,546 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:29,547 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:29,731 - src.base.trainer - INFO - Epoch [5/250] (954) train_mae: 4.4123, val_mae: 4.1881, lr: 0.001000, 1.2s
+2025-07-14 14:10:29,735 - src.base.trainer - INFO - Val loss decrease from 4.4722 to 4.1881, saving to True
+2025-07-14 14:10:30,809 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:30,809 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:30,965 - src.base.trainer - INFO - Epoch [6/250] (1113) train_mae: 4.4856, val_mae: 4.3215, lr: 0.001000, 1.1s
+2025-07-14 14:10:31,688 - src.base.trainer - INFO - Epoch [7/250] (1200) train_mae: 4.3976, val_mae: 3.9283 
+2025-07-14 14:10:31,690 - src.base.trainer - INFO - Val loss decrease from 4.1881 to 3.9283, saving to True
+2025-07-14 14:10:32,138 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:32,138 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:32,286 - src.base.trainer - INFO - Epoch [7/250] (1272) train_mae: 4.3482, val_mae: 3.9355, lr: 0.001000, 1.2s
+2025-07-14 14:10:33,303 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:33,303 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:33,451 - src.base.trainer - INFO - Epoch [8/250] (1431) train_mae: 4.3523, val_mae: 4.1311, lr: 0.001000, 1.0s
+2025-07-14 14:10:34,505 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:34,505 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:34,651 - src.base.trainer - INFO - Epoch [9/250] (1590) train_mae: 4.2160, val_mae: 3.9320, lr: 0.000700, 1.1s
+2025-07-14 14:10:34,860 - src.base.trainer - INFO - Epoch [10/250] (1600) train_mae: 4.0190, val_mae: 3.8125 
+2025-07-14 14:10:34,863 - src.base.trainer - INFO - Val loss decrease from 3.9283 to 3.8125, saving to True
+2025-07-14 14:10:35,856 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:35,856 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:36,004 - src.base.trainer - INFO - Epoch [10/250] (1749) train_mae: 3.8956, val_mae: 3.8154, lr: 0.000700, 1.2s
+2025-07-14 14:10:37,079 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:37,079 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:37,254 - src.base.trainer - INFO - Epoch [11/250] (1908) train_mae: 3.9568, val_mae: 3.6586, lr: 0.000700, 1.1s
+2025-07-14 14:10:37,257 - src.base.trainer - INFO - Val loss decrease from 3.8125 to 3.6586, saving to True
+2025-07-14 14:10:38,034 - src.base.trainer - INFO - Epoch [12/250] (2000) train_mae: 3.9662, val_mae: 3.8126 
+2025-07-14 14:10:38,460 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:38,460 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:38,619 - src.base.trainer - INFO - Epoch [12/250] (2067) train_mae: 3.8841, val_mae: 3.8247, lr: 0.000700, 1.2s
+2025-07-14 14:10:39,629 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:39,629 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:39,783 - src.base.trainer - INFO - Epoch [13/250] (2226) train_mae: 3.8945, val_mae: 3.7363, lr: 0.000700, 1.0s
+2025-07-14 14:10:40,794 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:40,795 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:40,946 - src.base.trainer - INFO - Epoch [14/250] (2385) train_mae: 3.8655, val_mae: 3.7608, lr: 0.000700, 1.0s
+2025-07-14 14:10:41,202 - src.base.trainer - INFO - Epoch [15/250] (2400) train_mae: 3.8507, val_mae: 3.6993 
+2025-07-14 14:10:42,141 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:42,141 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:42,308 - src.base.trainer - INFO - Epoch [15/250] (2544) train_mae: 3.7944, val_mae: 3.7008, lr: 0.000700, 1.2s
+2025-07-14 14:10:43,333 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:43,333 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:43,484 - src.base.trainer - INFO - Epoch [16/250] (2703) train_mae: 3.8629, val_mae: 3.7868, lr: 0.000700, 1.0s
+2025-07-14 14:10:44,249 - src.base.trainer - INFO - Epoch [17/250] (2800) train_mae: 3.8380, val_mae: 3.7047 
+2025-07-14 14:10:44,652 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:44,652 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:44,814 - src.base.trainer - INFO - Epoch [17/250] (2862) train_mae: 3.8207, val_mae: 3.6352, lr: 0.000700, 1.2s
+2025-07-14 14:10:44,816 - src.base.trainer - INFO - Val loss decrease from 3.6586 to 3.6352, saving to True
+2025-07-14 14:10:45,860 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:45,860 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:46,030 - src.base.trainer - INFO - Epoch [18/250] (3021) train_mae: 3.7859, val_mae: 3.6212, lr: 0.000700, 1.0s
+2025-07-14 14:10:46,033 - src.base.trainer - INFO - Val loss decrease from 3.6352 to 3.6212, saving to True
+2025-07-14 14:10:47,142 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:47,142 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:47,289 - src.base.trainer - INFO - Epoch [19/250] (3180) train_mae: 3.8009, val_mae: 3.6496, lr: 0.000490, 1.1s
+2025-07-14 14:10:47,566 - src.base.trainer - INFO - Epoch [20/250] (3200) train_mae: 3.7339, val_mae: 3.5819 
+2025-07-14 14:10:47,570 - src.base.trainer - INFO - Val loss decrease from 3.6212 to 3.5819, saving to True
+2025-07-14 14:10:48,500 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:48,500 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:48,649 - src.base.trainer - INFO - Epoch [20/250] (3339) train_mae: 3.6104, val_mae: 3.6513, lr: 0.000490, 1.2s
+2025-07-14 14:10:49,714 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:49,715 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:49,866 - src.base.trainer - INFO - Epoch [21/250] (3498) train_mae: 3.6803, val_mae: 3.6483, lr: 0.000490, 1.1s
+2025-07-14 14:10:50,707 - src.base.trainer - INFO - Epoch [22/250] (3600) train_mae: 3.6614, val_mae: 3.6299 
+2025-07-14 14:10:51,092 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:51,093 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:51,250 - src.base.trainer - INFO - Epoch [22/250] (3657) train_mae: 3.6372, val_mae: 3.6279, lr: 0.000490, 1.2s
+2025-07-14 14:10:52,304 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:52,304 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:52,462 - src.base.trainer - INFO - Epoch [23/250] (3816) train_mae: 3.6714, val_mae: 3.5442, lr: 0.000490, 1.1s
+2025-07-14 14:10:52,465 - src.base.trainer - INFO - Val loss decrease from 3.5819 to 3.5442, saving to True
+2025-07-14 14:10:53,533 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:53,534 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:53,699 - src.base.trainer - INFO - Epoch [24/250] (3975) train_mae: 3.6466, val_mae: 3.5562, lr: 0.000490, 1.1s
+2025-07-14 14:10:54,057 - src.base.trainer - INFO - Epoch [25/250] (4000) train_mae: 3.6249, val_mae: 3.5135 
+2025-07-14 14:10:54,060 - src.base.trainer - INFO - Val loss decrease from 3.5442 to 3.5135, saving to True
+2025-07-14 14:10:55,097 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:55,097 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:55,252 - src.base.trainer - INFO - Epoch [25/250] (4134) train_mae: 3.5796, val_mae: 3.6739, lr: 0.000490, 1.4s
+2025-07-14 14:10:56,305 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:56,305 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:56,464 - src.base.trainer - INFO - Epoch [26/250] (4293) train_mae: 3.6517, val_mae: 3.4843, lr: 0.000490, 1.1s
+2025-07-14 14:10:56,467 - src.base.trainer - INFO - Val loss decrease from 3.5135 to 3.4843, saving to True
+2025-07-14 14:10:57,362 - src.base.trainer - INFO - Epoch [27/250] (4400) train_mae: 3.6190, val_mae: 3.5086 
+2025-07-14 14:10:57,699 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:57,700 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:57,853 - src.base.trainer - INFO - Epoch [27/250] (4452) train_mae: 3.6056, val_mae: 3.6763, lr: 0.000490, 1.2s
+2025-07-14 14:10:58,931 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:10:58,931 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:10:59,083 - src.base.trainer - INFO - Epoch [28/250] (4611) train_mae: 3.6529, val_mae: 3.5775, lr: 0.000490, 1.1s
+2025-07-14 14:11:00,184 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:00,185 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:00,333 - src.base.trainer - INFO - Epoch [29/250] (4770) train_mae: 3.6249, val_mae: 3.6778, lr: 0.000343, 1.1s
+2025-07-14 14:11:00,681 - src.base.trainer - INFO - Epoch [30/250] (4800) train_mae: 3.5783, val_mae: 3.5699 
+2025-07-14 14:11:01,506 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:01,506 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:01,652 - src.base.trainer - INFO - Epoch [30/250] (4929) train_mae: 3.4945, val_mae: 3.5293, lr: 0.000343, 1.2s
+2025-07-14 14:11:02,770 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:02,771 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:02,928 - src.base.trainer - INFO - Epoch [31/250] (5088) train_mae: 3.5719, val_mae: 3.4993, lr: 0.000343, 1.1s
+2025-07-14 14:11:03,845 - src.base.trainer - INFO - Epoch [32/250] (5200) train_mae: 3.5696, val_mae: 3.5174 
+2025-07-14 14:11:04,185 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:04,185 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:04,340 - src.base.trainer - INFO - Epoch [32/250] (5247) train_mae: 3.5273, val_mae: 3.6284, lr: 0.000343, 1.3s
+2025-07-14 14:11:05,387 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:05,388 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:05,541 - src.base.trainer - INFO - Epoch [33/250] (5406) train_mae: 3.5690, val_mae: 3.5484, lr: 0.000343, 1.0s
+2025-07-14 14:11:06,636 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:06,637 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:06,791 - src.base.trainer - INFO - Epoch [34/250] (5565) train_mae: 3.5521, val_mae: 3.4924, lr: 0.000343, 1.1s
+2025-07-14 14:11:07,186 - src.base.trainer - INFO - Epoch [35/250] (5600) train_mae: 3.5949, val_mae: 3.5111 
+2025-07-14 14:11:07,981 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:07,981 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:08,139 - src.base.trainer - INFO - Epoch [35/250] (5724) train_mae: 3.4729, val_mae: 3.5734, lr: 0.000343, 1.2s
+2025-07-14 14:11:09,199 - src.base.trainer - INFO - epoch complete
+2025-07-14 14:11:09,199 - src.base.trainer - INFO - evaluating now!
+2025-07-14 14:11:09,354 - src.base.trainer - INFO - Epoch [36/250] (5883) train_mae: 3.5362, val_mae: 3.5666, lr: 0.000343, 1.1s
+2025-07-14 14:11:09,354 - src.base.trainer - INFO - Early stop at epoch 37, loss = 3.484315
+2025-07-14 14:12:00,137 - src.base.trainer - INFO - the number of parameters: 218648
+2025-07-14 14:12:25,620 - src.base.trainer - INFO - the number of parameters: 218648
+2025-07-14 14:12:54,773 - src.base.trainer - INFO - the number of parameters: 218648
+2025-07-14 14:26:59,608 - src.base.trainer - INFO - the number of parameters: 218648
+2025-07-14 14:27:33,547 - src.base.trainer - INFO - the number of parameters: 218648

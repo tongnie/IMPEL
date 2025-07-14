@@ -1,0 +1,13 @@
+2025-07-14 16:09:50,188 - src.base.trainer - INFO - the number of parameters: 37121
+2025-07-14 16:09:50,190 - src.base.trainer - INFO - start training !!!!!
+2025-07-14 16:09:53,169 - src.base.trainer - INFO - epoch complete
+2025-07-14 16:09:53,170 - src.base.trainer - INFO - evaluating now!
+2025-07-14 16:09:53,431 - src.base.trainer - INFO - Epoch [0/250] (159) train_mae: 6.7452, val_mae: 4.8016, lr: 0.001000, 3.0s
+2025-07-14 16:09:53,433 - src.base.trainer - INFO - Val loss decrease from inf to 4.8016, saving to True
+2025-07-14 16:09:55,137 - src.base.trainer - INFO - epoch complete
+2025-07-14 16:09:55,138 - src.base.trainer - INFO - evaluating now!
+2025-07-14 16:09:55,387 - src.base.trainer - INFO - Epoch [1/250] (318) train_mae: 5.5692, val_mae: 4.8760, lr: 0.001000, 1.7s
+2025-07-14 16:09:56,484 - src.base.trainer - INFO - Epoch [2/250] (400) train_mae: 5.2748, val_mae: 4.7670 
+2025-07-14 16:09:56,486 - src.base.trainer - INFO - Val loss decrease from 4.8016 to 4.7670, saving to True
+2025-07-14 16:09:57,301 - src.base.trainer - INFO - epoch complete
+2025-07-14 16:09:57,302 - src.base.trainer - INFO - evaluating now!
